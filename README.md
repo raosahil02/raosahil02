@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>Nice to meet you, I’m Sahil Rao!<br><br>🎓 I’m a Computer Science & Engineering student and a fresher<br>💻 Passionate about Web Development and frontend technologies<br>🚀 Built projects like Frontend Auth Dashboard and Encephalitis Detection AI System<br>🌱 Currently learning backend development, APIs, and improving SQL & DSA<br>🤝 Open to internships, fresher roles, and collaborative projects<br>⚡ Fun fact: When I’m not coding, I’m probably watching cricket or playing basketball<br>
+Hi there 👋<br>Nice to meet you, I’m Sahil Rao!<br><br>🎓 I’m a Computer Science & Engineering student and a fresher<br>💻 Passionate about Web Development and frontend technologies<br>🚀 Built projects like Frontend Auth Dashboard and Encephalitis Detection AI System<br>🌱 Currently learning backend development, APIs, and improving SQL & DSA<br>🤝 Open to internships, fresher roles, and collaborative projects<br>⚡ Fun fact: When I’m not coding, I’m probably watching cricket or playing Cricket<br>
 
 
 ## 🌐 Socials:
